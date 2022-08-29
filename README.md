@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @CodewWizard
-- 👀 I’m interested in MERN and Java
-- 🌱 I’m currently learning BTech IT
+Hey👋, I'm Madiha!
 
 <!---
 CodewWizard/CodewWizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
