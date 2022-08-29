@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodewWizard
-- 👀 I’m interested in MERN and Java Dev
+- 👀 I’m interested in MERN and Java
 - 🌱 I’m currently learning BTech IT
 
 <!---
