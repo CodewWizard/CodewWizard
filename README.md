@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react,nextjs,nodejs,expressjs,mysql,linux,vscode,git,mongodb,markdown,github,vercel")
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,dotnet,javascript,react,nextjs,nodejs,expressjs,mysql,mongodb,linux,visualstudio,vscode,replit,git,github")
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewwizard&theme=dark&show_icons=true&locale=en&layout=compact" alt="codewwizard" /></p>
