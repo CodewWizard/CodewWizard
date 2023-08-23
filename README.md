@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewwizard&theme=dark&show_icons=true&locale=en&layout=compact" alt="codewwizard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewwizard&show_icons=true&locale=en&theme=dark" alt="codewwizard" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewwizard&theme=dark" alt="codewwizard" /></p>
