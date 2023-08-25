@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on [Investment Calculator](https://github.com/CodewWizard/complete-reactjs/tree/main/05-investment-calculator)
+- 🔭 I’m currently working on [React](https://github.com/CodewWizard/complete-reactjs)
 
 - 📫 How to reach me **madihamujawar410@gmail.com**
 
