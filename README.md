@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I’m currently working on [React](https://github.com/CodewWizard/complete-reactjs)
-
 - 📫 How to reach me **madihamujawar410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
