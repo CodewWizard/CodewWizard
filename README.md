@@ -15,6 +15,8 @@
 <a href="https://stackoverflow.com/users/19488625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19488625" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codewizarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewizarder" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/madihamujawar410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/madihamujawar410" height="30" width="40" /></a>
+  &nbsp
+  <a href="https://replit.com/@codewizardd" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRE0ZC-CcK3Kkimo_3e7qvU456TagDode37g&usqp=CAU" alt="https://replit.com/@codewizardd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
